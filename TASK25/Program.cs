@@ -23,4 +23,4 @@ double Exponentiation(double num1, double num2)
 double num1 = 0;
 double num2 = 0;
 
-Console.WriteLine(Exponentiation(num1, num2));
+Console.WriteLine($"Результатом возведения числа в степень 'N' будет число: {Exponentiation(num1, num2)}");
