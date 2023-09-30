@@ -1,0 +1,15 @@
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.csproj.AssemblyReference.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.GeneratedMSBuildEditorConfig.editorconfig
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.AssemblyInfoInputs.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.AssemblyInfo.cs
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.csproj.CoreCompileInputs.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\bin\Debug\net7.0\TASK27.exe
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\bin\Debug\net7.0\TASK27.deps.json
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\bin\Debug\net7.0\TASK27.runtimeconfig.json
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\bin\Debug\net7.0\TASK27.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\bin\Debug\net7.0\TASK27.pdb
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\refint\TASK27.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.pdb
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\TASK27.genruntimeconfig.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK27\obj\Debug\net7.0\ref\TASK27.dll
