@@ -3,10 +3,10 @@
 void InputNum(ref double num1, ref double num2)
 {
     Console.WriteLine("Введите число для возведения в степень 'N'");
-    num1 = Convert.ToInt32(Console.ReadLine());
+    num1 = Convert.ToDouble(Console.ReadLine());
     Console.WriteLine("Введите степень 'N' в которую хотите"
     + "возвести число");
-    num2 = Convert.ToInt32(Console.ReadLine());
+    num2 = Convert.ToDouble(Console.ReadLine());
 }
 
 double Exponentiation(double num1, double num2) 
@@ -17,7 +17,7 @@ double Exponentiation(double num1, double num2)
     {
         result *= num1; 
     }
-    return result;
+    return Math.Round(result, 2);
 }
 
 double num1 = 0;
