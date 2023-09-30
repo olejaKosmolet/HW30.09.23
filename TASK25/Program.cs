@@ -13,7 +13,7 @@ double Exponentiation(double num1, double num2)
 {
     double result = 1;
     InputNum(ref num1, ref num2);
-    for (int i = 1; i <= num2; i++)
+    for (int i = 0; i < num2; i++)
     {
         result *= num1; 
     }
