@@ -11,11 +11,11 @@ void InputNum(ref double num1, ref double num2)
 
 double Exponentiation(double num1, double num2) 
 {
-    double result = 0;
+    double result = 1;
     InputNum(ref num1, ref num2);
-    for (int i = 1; i < num2; i++)
+    for (int i = 1; i <= num2; i++)
     {
-        result += num1 * num1; 
+        result *= num1; 
     }
     return result;
 }
