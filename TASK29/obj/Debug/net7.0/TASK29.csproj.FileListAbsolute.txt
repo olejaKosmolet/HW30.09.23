@@ -1,0 +1,15 @@
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.csproj.AssemblyReference.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.GeneratedMSBuildEditorConfig.editorconfig
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.AssemblyInfoInputs.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.AssemblyInfo.cs
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.csproj.CoreCompileInputs.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\bin\Debug\net7.0\TASK29.exe
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\bin\Debug\net7.0\TASK29.deps.json
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\bin\Debug\net7.0\TASK29.runtimeconfig.json
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\bin\Debug\net7.0\TASK29.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\bin\Debug\net7.0\TASK29.pdb
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\refint\TASK29.dll
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.pdb
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\TASK29.genruntimeconfig.cache
+D:\aducation\august-september\С#\30.09.2023 hOMEwORK\TASK29\obj\Debug\net7.0\ref\TASK29.dll
