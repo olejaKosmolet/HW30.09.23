@@ -8,9 +8,9 @@
 //     }
 //     Console.Write($"[{string.Join(",", array)}]");
 // }
-
+// Console.Write("Введите количество элементов массива: ");
 // int amount = Convert.ToInt32(Console.ReadLine());
-
+// Console.WriteLine("Заполните массив: ");
 // ArrrayOutput(amount);
 
 void ArrrayOutput(int amount)
@@ -23,7 +23,7 @@ void ArrrayOutput(int amount)
     }
     Console.Write($"[{string.Join(",", array)}]");
 }
-
+Console.Write("Введите количество элементов массива: ");
 int input = Convert.ToInt32(Console.ReadLine());
-
+Console.Write($"Получите массив количество которого {input} элементов: \n");
 ArrrayOutput(input);
